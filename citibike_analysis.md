@@ -8,7 +8,7 @@ A number of demographic and geographic data from US Census datasets were used in
 
 For the aspect of estimated population in July, 2018, There were 216,853 population in Des Moines and 8,398,748 in New York City, which was approximately 38 times more than Des Moines city.
 
-We believe the smaller population in Des Moines would affect the number of people who will use the bike-sharing program. In this case, a lower amount of bikes would 
+We believe the smaller population in Des Moines would affect the number of people who will use the bike-sharing program. In this case, a lower number of bikes would meet customer demand.
 
 ## Gender diversity 
 
@@ -44,6 +44,11 @@ The BCycle program, started in 2010 by the Des Moines Bicycle Collective, has gr
 
 Comparing with NYC population and the amount of Citi Bikes, we found there is still a huge potential market in bike-sharing business.
 
-## Additional Reference
+## Conclusion
+
+Bike share is a relatively inexpensive and easy-to-implement transportation option that can deliver a variety of benefits for Des Moines City. 
+
+
+### Additional Citations
 
 [BCycle Program](https://www.desmoinesregister.com/story/news/local/west-des-moines/2018/06/15/bike-sharing-west-des-moines-bcycle-ragbrai-des-moines-bicycle-collective/705020002/)
