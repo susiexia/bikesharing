@@ -4,6 +4,11 @@ This is a summary of the analytic report of NYC citi Bike program in order to he
 
 A number of demographic and geographic data from US Census datasets were used in this analysis.
 
+## Tableau Link
+
+[Tableau_Public](https://public.tableau.com/profile/susie.xia#!/vizhome/Book1_15830426909680/BusinessProposalStory?publish=yes)
+
+
 ## population 
 
 For the aspect of estimated population in July, 2018, There were 216,853 population in Des Moines and 8,398,748 in New York City, which was approximately 38 times more than Des Moines city.
